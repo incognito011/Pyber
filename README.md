@@ -437,7 +437,7 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
+![pyber_pie](https://user-images.githubusercontent.com/37307811/41499675-f6d7b83a-7151-11e8-9aa2-abb5b29b5fbd.png)
 
 
 # Total Fares by City Type
@@ -488,7 +488,7 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![fares_pie](https://user-images.githubusercontent.com/37307811/41499674-f6b66f0e-7151-11e8-89b1-e45f7f04bef3.png)
 
 
 # Total Rides by City Type
@@ -530,7 +530,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![rides_pie](https://user-images.githubusercontent.com/37307811/41499676-f6e2239c-7151-11e8-80a7-f8b089bf0fd4.png)
 
 
 # Total Drivers by City Type
@@ -572,5 +572,5 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![drivers_pie](https://user-images.githubusercontent.com/37307811/41499671-ee9474d8-7151-11e8-8afc-4a7f6bdd1ed4.png)
 
